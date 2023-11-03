@@ -1,0 +1,101 @@
+body {
+    margin:0;
+    font-family:"Arial", sans-serif;
+    front-size: 14px;
+    line-height: 20px;
+    color: #444444;
+}
+
+h1 {
+    width:255px;
+    margin: 0 auto 8px;
+    font-family:"Georgia", serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+}
+
+h2 {
+    border-bottom: 2px solid #cccccc;
+    padding-bottom: 12px;
+  }
+
+.container {
+    width: 510px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+  .site-header {
+    min-width: 550px;
+    height: 186px;
+    margin-bottom: 70px;
+    padding-top: 30px;
+}
+
+.site-header p {
+    width: 255px;
+    margin: 0 auto 26px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px; 
+}
+
+.site-header img {
+    display: block;
+    margin: 0 auto;
+  }
+
+.guli-guli {
+    width: 510px;
+    margin: 20 auto 30px;
+    padding: 0 20px;
+}
+
+.guli-guli p{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin: 0 5px;
+    background-repeat: no-repeat;
+    background-position: center top;
+    text-align: center;
+}
+
+.nogti {
+    padding-top: 65px;
+    background-image: url(5209178.png);
+}
+
+.hair{
+padding-top: 65px;
+background-image: url(png-transparent-hairstyle-beauty-parlour-hair-care-human-hair-color-hair-mammal-black-hair-carnivoran);
+}
+
+.massage{
+    padding-top: 65px;
+    background-image: url(png-clipart-massage-konotop-masseur-stone-massage-aromatherapy-others-monochrome-silhouette);
+}
+
+.sales{
+    width: 510px;
+    margin: 0 auto 40px;
+    padding: 0 20px;
+}
+
+.site-footer {
+    min-width: 550px;
+    background-color: #847462;
+    color: #ffffff;
+  }
+  
+  .site-footer .container {
+    text-align: center;
+  }
+  
+  .site-footer p {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 20px;
+  }
